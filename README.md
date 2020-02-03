@@ -7,8 +7,11 @@ Catalog of paper and digital books
 
 Jesus Calling: 
 Enjoying Peace in His Presence 
+
 Sarah Young. 
+
 Thomas Nelson, nook. 
+
 Devotional (daily devotional). 
 
 
