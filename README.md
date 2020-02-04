@@ -3,7 +3,7 @@ Catalog of paper and digital books
 
 --Christian Nonnarrative Nonfiction
 
-- Anonymous 
+- Anonymous/Various 
 
 Benedictine Daily Prayer: 
 A Short Breviary 
@@ -26,6 +26,19 @@ Sarah Young.
 Thomas Nelson, nook. 
 
 Devotional (daily devotional). 
+
+--Plays/Poetry/Short Narrative 
+
+
+-Sexton, Anne
+
+The Complete Poems 
+
+Anne Sexton. 
+
+Open Road, nook. 
+
+Poetry. 
 
 
 --Psychology 
