@@ -15,6 +15,15 @@ Second Edition.
 
 Devotional (liturgical). 
 
+- Keating, Thomas
+
+Open Mind, Open Heart: 
+The Contemplative Dimension of the Gospel
+
+Thomas Keating. 
+
+Bloomsbury, paper, 20th anniversary edition. 
+
 
 - Young, Sarah
 
@@ -30,7 +39,7 @@ Devotional (daily devotional).
 --Plays/Poetry/Short Narrative 
 
 
--Sexton, Anne
+- Sexton, Anne
 
 The Complete Poems 
 
