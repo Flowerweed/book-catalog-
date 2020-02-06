@@ -36,8 +36,20 @@ Thomas Nelson, nook.
 
 Devotional (daily devotional). 
 
---Plays/Poetry/Short Narrative 
+--Novels/Long Narratives 
 
+- Robertson, Phil 
+
+The Theft of America's Soul
+
+Phil Robertson with Seth Haines. 
+
+Nelson Books, nook. 
+
+Christian memoir. 
+
+
+--Plays/Poetry/Short Narrative 
 
 - Sexton, Anne
 
