@@ -63,3 +63,14 @@ Poetry.
 
 
 --Psychology 
+
+- Ellis, Albert 
+
+How To Control Your Anger Before It 
+Controls You
+
+Albert Ellis with Raymond Chip Tafrate. 
+
+Citadel Press, nook. 
+
+Cognitive psychology. 
