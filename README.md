@@ -51,6 +51,18 @@ Christian memoir.
 
 --Plays/Poetry/Short Narrative 
 
+- Anonymous/Various
+
+Chicken Soup for the Soul: The 
+Forgiveness Fix
+
+Amy Newmark (editor). 
+
+CSS, paper. 
+
+True stories. 
+
+
 - Sexton, Anne
 
 The Complete Poems 
