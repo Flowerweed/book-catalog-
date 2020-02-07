@@ -22,8 +22,19 @@ The Contemplative Dimension of the Gospel
 
 Thomas Keating. 
 
-Bloomsbury, paper, 20th anniversary edition. 
+Bloomsbury, paper, 20th anniversary edition.
 
+Theology. 
+
+- Merton, Thomas
+
+No Man Is An Island 
+
+Thomas Merton. 
+
+Houghton Mifflin Harcourt, nook. 
+
+Theology. 
 
 - Young, Sarah
 
