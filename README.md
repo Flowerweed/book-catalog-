@@ -15,6 +15,16 @@ Second Edition.
 
 Devotional (liturgical). 
 
+- Eyton, Robert
+
+The Lord's Prayer: Sermons. 
+
+Robert Eyton. 
+
+Nabu Public Domain Reprints, paper. 
+
+Theology (verbal prayer). 
+
 - Keating, Thomas
 
 Open Mind, Open Heart: 
@@ -24,7 +34,7 @@ Thomas Keating.
 
 Bloomsbury, paper, 20th anniversary edition.
 
-Theology. 
+Theology (contemplation). 
 
 - Merton, Thomas
 
@@ -34,7 +44,7 @@ Thomas Merton.
 
 Houghton Mifflin Harcourt, nook. 
 
-Theology. 
+Theology (contemplation). 
 
 - Young, Sarah
 
