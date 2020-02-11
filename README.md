@@ -117,4 +117,4 @@ Albert Ellis with Raymond Chip Tafrate.
 
 Citadel Press, nook. 
 
-Cognitive psychology. 
+Cognitive psychology (afflictive emotions). 
