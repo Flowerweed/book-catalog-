@@ -46,6 +46,17 @@ Houghton Mifflin Harcourt, nook.
 
 Theology (contemplation). 
 
+- Rohr, Richard 
+
+Immortal Diamond: 
+The Search for Our True Self
+
+Richard Rohr. 
+
+Jossey-Bass, nook. 
+
+Christian psychology. 
+
 - Young, Sarah
 
 Jesus Calling: 
