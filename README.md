@@ -3,9 +3,9 @@ Catalog of paper and digital books
 
 --Christian Nonnarrative Nonfiction
 
-- Anonymous/Various 
+- Anonymous/Various (7)
 
-Benedictine Daily Prayer: 
+* Benedictine Daily Prayer: 
 A Short Breviary 
 
 Maxwell E. Johnson (editor).
@@ -14,6 +14,15 @@ Liturgical Press, paper,
 Second Edition. 
 
 Devotional (liturgical). 
+
+* Climbing the Heights: 
+Daily Devotions
+
+Al Bryant (editor). 
+
+Zondervan, paper. 
+
+Devotional (daily devotional). 
 
 - Eyton, Robert
 
@@ -68,7 +77,7 @@ Thomas Nelson, nook.
 
 Devotional (daily devotional). 
 
---Novels/Long Narratives 
+--Novels/Long Narratives (1)
 
 - Robertson, Phil 
 
@@ -81,7 +90,7 @@ Nelson Books, nook.
 Christian memoir. 
 
 
---Plays/Poetry/Short Narrative 
+--Plays/Poetry/Short Narrative (2)
 
 - Anonymous/Various
 
@@ -106,7 +115,7 @@ Open Road, nook.
 Poetry. 
 
 
---Psychology 
+--Psychology (1)
 
 - Ellis, Albert 
 
