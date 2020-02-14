@@ -115,7 +115,7 @@ Open Road, nook.
 Poetry. 
 
 
---Psychology (1)
+--Psychology (2)
 
 -- Ellis, Albert 
 
@@ -125,5 +125,15 @@ Controls You
 Albert Ellis with Raymond Chip Tafrate. 
 
 Citadel Press, nook. 
+
+Cognitive psychology (afflictive emotions).
+
+-- Tafrate, Raymond Chip 
+
+* Anger Management for Everyone, Second Edition
+
+Raymond Chip Tafrate and Howard Kassinove.  
+
+Impact Publishers, nook. 
 
 Cognitive psychology (afflictive emotions). 
