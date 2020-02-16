@@ -147,3 +147,15 @@ Raymond Chip Tafrate and Howard Kassinove.
 Impact Publishers, nook. 
 
 Cognitive psychology (afflictive emotions). 
+
+--World Religion (1)
+
+-- Falcon, Ted
+
+* Judaism for Dummies
+
+Rabbi Ted Falcon and David Blatner. 
+
+John Wiley & Sons, nook. 
+
+Judaism. 
