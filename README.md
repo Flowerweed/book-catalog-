@@ -1,7 +1,7 @@
 # book-catalog-
 Catalog of paper and digital books 
 
---Christian Nonnarrative Nonfiction (7) 
+--Christian Nonnarrative Nonfiction (8) 
 
 -- Anonymous/Various
 
@@ -65,6 +65,16 @@ Richard Rohr.
 Jossey-Bass, nook. 
 
 Christian psychology. 
+
+-- Spurgeon, C.H.
+
+* Spurgeon's Sermons, Volume I
+
+C.H. Spurgeon.  
+
+Lulu Press, nook. 
+
+Theology (miscellaneous). 
 
 -- Young, Sarah
 
