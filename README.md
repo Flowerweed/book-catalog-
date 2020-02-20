@@ -1,7 +1,7 @@
 # book-catalog-
 Catalog of paper and digital books 
 
---Christian Nonnarrative Nonfiction (8) 
+--Christian Nonnarrative Nonfiction (9) 
 
 -- Anonymous/Various
 
@@ -44,6 +44,16 @@ Thomas Keating.
 Bloomsbury, paper, 20th anniversary edition.
 
 Theology (contemplation). 
+
+-- McLaren, Brian
+
+* A Generous Orthodoxy 
+
+Brian McLaren. 
+
+Zondervan, nook. 
+
+Theology (doctrine). 
 
 -- Merton, Thomas
 
