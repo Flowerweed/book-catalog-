@@ -1,7 +1,7 @@
 # book-catalog-
 Catalog of paper and digital books 
 
---Christian Nonnarrative Nonfiction (9) 
+--Christian Nonnarrative Nonfiction (10) 
 
 -- Anonymous/Various
 
@@ -22,7 +22,16 @@ Al Bryant (editor).
 
 Zondervan, paper. 
 
-Devotional (daily devotional). 
+Devotional (daily devotional).
+
+* The Life Recovery Bible, Second Edition
+(New Living Translation) 
+
+Stephen Arterburn and David Stoop (editors). 
+
+Tyndale, paper. 
+
+Bibles. 
 
 -- Eyton, Robert
 
