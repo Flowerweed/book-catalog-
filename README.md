@@ -106,7 +106,18 @@ Thomas Nelson, nook.
 
 Devotional (daily devotional). 
 
---Novels/Long Narratives (2)
+--Novels/Long Narratives (3)
+
+-- Boyle, Gregory 
+
+* Tattoos on the Heart: The Power of Boundless
+Compassion
+
+Gregory Boyle. 
+
+Free Press, paper. 
+
+Christian memoir. 
 
 -- Paton, Alan
 
