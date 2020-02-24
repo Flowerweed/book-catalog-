@@ -106,7 +106,18 @@ Thomas Nelson, nook.
 
 Devotional (daily devotional). 
 
---Novels/Long Narratives (1)
+--Novels/Long Narratives (2)
+
+-- Paton, Alan
+
+* Cry, the Beloved Country
+
+Alan Paton. 
+
+Scribner, nook. 
+
+Social drama. 
+
 
 -- Robertson, Phil 
 
