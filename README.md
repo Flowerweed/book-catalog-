@@ -1,7 +1,7 @@
 # book-catalog-
 Catalog of paper and digital books 
 
---Christian Nonnarrative Nonfiction (10) 
+--Christian Nonnarrative Nonfiction (11) 
 
 -- Anonymous/Various
 
@@ -52,7 +52,15 @@ Thomas Keating.
 
 Bloomsbury, paper, 20th anniversary edition.
 
-Theology (contemplation). 
+Theology (contemplation).
+
+-- Lamott, Anne
+
+* Hallelujah Anyway: Rediscovering Mercy 
+
+Anne Lamott. 
+
+Riverhead Books, nook. 
 
 -- McLaren, Brian
 
