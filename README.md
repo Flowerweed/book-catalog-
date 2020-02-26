@@ -1,7 +1,7 @@
 # book-catalog-
 Catalog of paper and digital books 
 
---Christian Nonnarrative Nonfiction (11) 
+--Christian Nonnarrative Nonfiction (12) 
 
 -- Anonymous/Various
 
@@ -73,6 +73,15 @@ Zondervan, nook.
 Theology (doctrine). 
 
 -- Merton, Thomas
+
+* New Seeds of Contemplation 
+
+Thomas Merton. 
+
+New Directions, nook 
+(Introduction by Sue Monk Kidd).
+
+Theology (contemplation).  
 
 * No Man Is An Island 
 
