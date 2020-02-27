@@ -62,6 +62,8 @@ Anne Lamott.
 
 Riverhead Books, nook. 
 
+Theology (virtues). 
+
 -- McLaren, Brian
 
 * A Generous Orthodoxy 
