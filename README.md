@@ -144,7 +144,8 @@ Christian memoir.
 
 Alan Paton. 
 
-Scribner, nook. 
+Scribner, nook
+(Introduction by Edward Callan).  
 
 Social drama. 
 
