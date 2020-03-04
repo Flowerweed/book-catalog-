@@ -138,6 +138,8 @@ Free Press, paper.
 
 Christian memoir. 
 
+N.B. Semi-narrative memoir. 
+
 -- Paton, Alan
 
 * Cry, the Beloved Country
@@ -159,6 +161,8 @@ Phil Robertson with Seth Haines.
 Nelson Books, nook. 
 
 Christian memoir. 
+
+N.B. Semi-narrative memoir. 
 
 
 --Plays/Poetry/Short Narrative (2)
