@@ -217,6 +217,8 @@ Citadel Press, nook.
 
 Cognitive psychology (afflictive emotions).
 
+Comment: Good. 
+
 -- Tafrate, Raymond Chip 
 
 * Anger Management for Everyone, Second Edition
@@ -226,6 +228,8 @@ Raymond Chip Tafrate and Howard Kassinove.
 Impact Publishers, nook. 
 
 Cognitive psychology (afflictive emotions). 
+
+Comment: Good. 
 
 --World Religion (1)
 
