@@ -186,7 +186,8 @@ Leo Tolstoy.
 
 Penguin Books, nook. 
 (Translated by Richard Pevear and 
-Larissa Volokhonsky.) 
+Larissa Volokhonsky; introduction by 
+Richard Pevear.)
 
 Social drama. 
 
