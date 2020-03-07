@@ -134,7 +134,7 @@ Thomas Nelson, nook.
 
 Devotional (daily devotional). 
 
---Novels/Long Narratives (3)
+--Novels/Long Narratives (4)
 
 -- Boyle, Gregory 
 
@@ -178,6 +178,17 @@ N.B. Semi-narrative memoir.
 Comment: He's more conservative than I am, (and, incidentally, 
 more low-church), but it's unfortunate that people want to shut him up. 
 
+-- Tolstoy, Leo 
+
+* Anna Karenina 
+
+Leo Tolstoy. 
+
+Penguin Books, nook. 
+(Translated by Richard Pevear and 
+Larissa Volokhonsky.) 
+
+Social drama. 
 
 --Plays/Poetry/Short Narrative (2)
 
