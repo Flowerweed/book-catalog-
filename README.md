@@ -43,6 +43,9 @@ Nabu Public Domain Reprints, paper.
 
 Theology (verbal prayer). 
 
+Comment: As a Victorian liberal I suspected he was going to come at it in 
+a very materialist way, but in the end it's pretty good. 
+
 -- Keating, Thomas
 
 * Open Mind, Open Heart: 
@@ -53,6 +56,8 @@ Thomas Keating.
 Bloomsbury, paper, 20th anniversary edition.
 
 Theology (contemplation).
+
+Comment: Big help to me on my path. 
 
 -- Lamott, Anne
 
@@ -73,6 +78,8 @@ Brian McLaren.
 Zondervan, nook. 
 
 Theology (doctrine). 
+
+Comment: Impressive. 
 
 -- Merton, Thomas
 
@@ -103,6 +110,8 @@ Richard Rohr.
 Jossey-Bass, nook. 
 
 Christian psychology. 
+
+Comment: He cleanses the tool, and then he uses it. 
 
 -- Spurgeon, C.H.
 
@@ -140,6 +149,8 @@ Christian memoir.
 
 N.B. Semi-narrative memoir. 
 
+Comment: Mark to reread as I only really started to get it at the end. 
+
 -- Paton, Alan
 
 * Cry, the Beloved Country
@@ -163,6 +174,9 @@ Nelson Books, nook.
 Christian memoir. 
 
 N.B. Semi-narrative memoir. 
+
+Comment: He's more conservative than I am, (and, incidentally, 
+more low-church), but it's unfortunate that people want to shut him up. 
 
 
 --Plays/Poetry/Short Narrative (2)
