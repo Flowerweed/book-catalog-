@@ -1,7 +1,7 @@
 # book-catalog-
 Catalog of paper and digital books 
 
---Christian Nonnarrative Nonfiction (14)
+--Christian Nonnarrative Nonfiction (15)
 
 -- Anderson, Bernhard W. 
 
@@ -121,6 +121,15 @@ Houghton Mifflin Harcourt, nook.
 Theology (contemplation). 
 
 -- Rohr, Richard 
+
+* Breathing Underwater:
+Spirituality and the Twelve Steps
+
+Richard Rohr. 
+
+St. Anthony Messenger Press, nook. 
+
+Christian psychology. 
 
 * Immortal Diamond: 
 The Search for Our True Self
