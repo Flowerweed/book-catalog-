@@ -1,7 +1,7 @@
 # book-catalog-
 Catalog of paper and digital books 
 
---Christian Nonnarrative Nonfiction (13)
+--Christian Nonnarrative Nonfiction (14)
 
 -- Anderson, Bernhard W. 
 
@@ -35,6 +35,14 @@ Al Bryant (editor).
 Zondervan, paper. 
 
 Devotional (daily devotional).
+
+* The Hymnal 1982 (Episcopal)
+
+Various. 
+
+Church Publishing, paper. 
+
+Devotional (liturgical). 
 
 * The Life Recovery Bible, Second Edition
 (New Living Translation) 
