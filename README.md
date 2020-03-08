@@ -1,7 +1,19 @@
 # book-catalog-
 Catalog of paper and digital books 
 
---Christian Nonnarrative Nonfiction (12) 
+--Christian Nonnarrative Nonfiction (13)
+
+-- Anderson, Bernhard W. 
+
+* Out of the Depths: 
+The Psalms Speak for Us Today 
+
+Bernhard W. Anderson with Steven Bishop. 
+ 
+Westminster John Knox Press, paper, 
+Third Edition. 
+
+Theology (Bible commentary/analysis). 
 
 -- Anonymous/Various
 
